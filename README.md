@@ -1,8 +1,6 @@
 # INDEX
 
 <br />
-<br />
-<br />
 
 <ul>
     <li><strong>Chapter 1</strong> : Introduction to HTML (HyperText Markup Language)</li>
